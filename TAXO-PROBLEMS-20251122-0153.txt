@@ -1,0 +1,75 @@
+Multiple taxids for Acanthocephala: 10232,2316800
+Multiple taxids for Acanthocephala: 10232,2316800
+Multiple taxids for Agaricus camphoratus: 152934,545989
+Multiple taxids for Agaricus decolorans: 152956,2751481
+Multiple taxids for Aphaenops: 699706,3057590
+Multiple taxids for Arenaria: 3577,54972
+Multiple taxids for Argentina: 3131914,260511
+Multiple taxids for Asterina gibbosa: 46515,1276929
+Multiple taxids for Atherina punctata: 215336,470307
+Multiple taxids for Bernieria madagascariensis: 128815,374660
+Multiple taxids for Bernieria madagascariensis: 128815,374660
+Multiple taxids for Boletus leptocephalus: 2922229,3420665
+Multiple taxids for Callicarpa: 2768729,21922
+Multiple taxids for Chondrilla: 220713,75962
+Multiple taxids for Colus: 2546348,1421191
+Multiple taxids for Craniata: 89593,115366
+Multiple taxids for Crucibulum: 68774,211803
+Multiple taxids for Ctenophora: 10197,1003038,516519
+Multiple taxids for Culcita: 13022,31169
+Multiple taxids for Dictyoptera: 6970,343848
+Multiple taxids for Dictyoptera: 6970,343848
+Multiple taxids for Dictyoptera: 6970,343848
+Multiple taxids for Dryas: 48230,33452
+Multiple taxids for Festuca spadicea: 199742,211960
+Multiple taxids for Festuca spadicea: 199742,211960
+Multiple taxids for Fritillaria: 2507559,59070
+Multiple taxids for Gobius marmoratus: 47310,85419
+Multiple taxids for Gryllus bipunctatus: 1477017,3401902
+Multiple taxids for Gryllus bipunctatus: 1477017,3401902
+Multiple taxids for Gryllus bipunctatus: 1477017,3401902
+Multiple taxids for Gryllus bipunctatus: 1477017,3401902
+Multiple taxids for Isotoma: 268267,57735
+Multiple taxids for Leontopodium alpinum: 49078,702223
+Multiple taxids for Linaria: 43170,1930290
+Multiple taxids for Mimulus: 4154,553005
+Multiple taxids for Monticola: 1508190,36285
+Multiple taxids for Oligochaeta: 6381,75641
+Multiple taxids for Ophisurus semicinctus: 1156473,3014301
+Multiple taxids for Papilio lucina: 328891,2879962
+Multiple taxids for Papilio lucina: 328891,2879962
+Multiple taxids for Papilio lucina: 328891,2879962
+Multiple taxids for Papilio lycaon: 3016680,3038947
+Multiple taxids for Papilio lycaon: 3016680,3038947
+Multiple taxids for Papilio lycaon: 3016680,3038947
+Multiple taxids for Papilio polyxena: 330376,1140773
+Multiple taxids for Papilio polyxena: 330376,1140773
+Multiple taxids for Papilio sylvanus: 2987854,3126489
+Multiple taxids for Papilio sylvanus: 2987854,3126489
+Multiple taxids for Papilio sylvanus: 2987854,3126489
+Multiple taxids for Phalaena prasinana: 988079,2758353
+Multiple taxids for Phalaena viridata: 986955,3409798
+Multiple taxids for Phalaena viridata: 986955,3409798
+Multiple taxids for Plecoptera: 50622,1266065
+Multiple taxids for Plecoptera: 50622,1266065
+Multiple taxids for Polypodiidae: 168711,1521262
+Multiple taxids for Polypodium: 43185,38352
+Multiple taxids for Polypodium dilatatum: 207843,239561
+Multiple taxids for Polypodium dilatatum: 207843,239561
+Multiple taxids for Polyporus badius: 196231,2824907
+Multiple taxids for Prunella: 39176,175132
+Multiple taxids for Rana: 8399,121175
+Multiple taxids for Rhamnus tinctoria: 319563,1813073
+Multiple taxids for Sagittaria: 459300,4450
+Multiple taxids for Scorpaena capensis: 72061,334941
+Multiple taxids for Stellaria: 1297112,13273
+Multiple taxids for Tetragonia: 45317,323682
+Multiple taxids for Theria: 32525,722675
+Multiple taxids for Trifolium: 3334059,3898
+Multiple taxids for Trifolium: 3334059,3898
+Multiple taxids for Vertebrata: 1261581,7742
+Multiple taxids for Viola: 13757,509528
+Multiple taxids for Viola: 13757,509528
+Multiple taxids for Viola persicifolia: 97427,502524
+Multiple taxids for Viola persicifolia: 97427,502524
+Multiple taxids for Xenopus: 8353,262014

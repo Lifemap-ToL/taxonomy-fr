@@ -10,16 +10,18 @@ with open(input_file, "r", encoding="utf-8") as fin, \
      open(output_file, "w", encoding="utf-8") as fout:
 
     for line in fin:
-        line = line.strip()
+        line = line.rstrip("\r\n")
         if not line:
             continue
 
-        # ensure at least 3 columns
         parts = line.split("\t")
-        while len(parts) < 3:
-            parts.insert(0, "")  # pad missing taxid at start
 
         taxid, latin_name, vernacular = parts
+
+        #if no vernacular name, skip
+        if vernacular == "" or vernacular.lower() == "none":
+            print(taxid)           
+            continue
 
         # replace Latin name by NCBI official name if taxid exists
         if taxid != "" and taxid.lower() != "none":

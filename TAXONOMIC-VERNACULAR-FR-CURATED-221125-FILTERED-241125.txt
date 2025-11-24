@@ -1020,19 +1020,16 @@
 	Acer x rotundilobum	Érable à feuilles à lobes arrondis
 	Acer x sabaudum	Érable de Savoie
 	Acer x zoeschense	Érable
-	59314	Aceras anthropophorum
 59314	Orchis anthropophora	Acéras homme pendu
 59314	Orchis anthropophora	Homme-pendu
 59314	Orchis anthropophora	Orchis homme pendu
 59314	Orchis anthropophora	Pantine
 59314	Orchis anthropophora	Porte-Homme
-		Aceras anthropophorum var. angustata
 	Aceras anthropophorum var. angustata	Acéras homme pendu
 	Aceras anthropophorum var. angustata	Homme-pendu
 	Aceras anthropophorum var. angustata	Orchis homme pendu
 	Aceras anthropophorum var. angustata	Pantine
 	Aceras anthropophorum var. angustata	Porte-Homme
-		Aceras anthropophorum var. latior
 	Aceras anthropophorum var. latior	Acéras homme pendu
 	Aceras anthropophorum var. latior	Homme-pendu
 	Aceras anthropophorum var. latior	Orchis homme pendu
@@ -4054,7 +4051,6 @@
 67730	Amanita strobiliformis	Amanite solitaire
 118035	Lactarius subdulcis	Lactaire douceâtre
 	Agaricus subdulcis ß camphoratus	Lactaire à odeur de chicorée
-	98372	Agaricus subfloccosus
 98372	Agaricus subfloccosus	Agaric à flocon
 98372	Agaricus subfloccosus	Psalliote à flocons
 	Agaricus subfloccosus var. bisporus	Champignon de Paris
@@ -13813,7 +13809,6 @@
 6854	Arachnida	araignées
 6854	Arachnida	Arachnide
 6854	Arachnida	Arachnides
-		Arachnites anthropophora
 	Arachnites anthropophora	Acéras homme pendu
 	Arachnites anthropophora	Homme-pendu
 	Arachnites anthropophora	Orchis homme pendu
@@ -22602,7 +22597,6 @@
 85670	Bombus wurflenii	Bourdon hirsute
 702208	Bombycilaena discolor	Bombycilaène à deux couleurs
 702208	Bombycilaena discolor	Cotonnière discolore
-	702209	Bombycilaena erecta
 702209	Bombycilaena erecta	Cotonnière dressée
 702209	Bombycilaena erecta	Gnaphale dressé
 702209	Bombycilaena erecta	Micrope droit
@@ -25020,7 +25014,6 @@
 	Buellia leptocline	Buellie petit-lit
 144691	Buellia schaereri	Buellie de Scherer
 2654850	Buellia spuria	Buellie bâtarde
-	441901	Buenia affinis
 441901	Buenia affinis	Gobie Réticulé
 441901	Buenia affinis	Gobie de De Buen
 	Buenia jeffreysi	Gobie chauve
@@ -36955,7 +36948,6 @@
 	Chettusia gregaria	Vanneau sociable
 	Chettusia leucura	Vanneau à queue blanche
 	Chettusia leucurus	Vanneau à queue blanche
-	4670	Chianthemum nivale
 4670	Galanthus nivalis	Clochette d'hiver
 4670	Galanthus nivalis	Galanthe des neiges
 4670	Galanthus nivalis	Galanthine
@@ -37393,11 +37385,9 @@
 452102	Chloropsis sonnerati	Verdin de Sonnerat
 1218695	Chloropsis venusta	Verdin à front bleu
 62169	Chlorornis riefferii	Tangara de Rieffer
-	173329	Chloroscombrus caribbaeus
 173329	Chloroscombrus chrysurus	Carangue grasse
 173329	Chloroscombrus chrysurus	Plateau
 173329	Chloroscombrus chrysurus	Sapater
-	173329	Chloroscombrus chrysurus
 173329	Chloroscombrus chrysurus	Carangue
 173329	Chloroscombrus chrysurus	Carangue médaille
 173329	Chloroscombrus chrysurus	Petit carangue
@@ -37406,11 +37396,8 @@
 173329	Chloroscombrus chrysurus	Pot pot
 173329	Chloroscombrus chrysurus	Sapatere
 173329	Chloroscombrus chrysurus	Sapater du Pacifique
-	173329	Chloroscombrus ectenurus
-	173329	Chloroscombrus hesperius
 173338	Chloroscombrus orqueta	Sapater
 173338	Chloroscombrus orqueta	Sapater du Pacifique
-	173329	Chloroscombrus stirurus
 166059	Chlorospingus canigularis	Chlorospin à gorge grise
 166060	Chlorospingus flavigularis	Chlorospin à gorge jaune
 2690796	Chlorospingus flavopectus	Chlorospin des buissons
@@ -45770,7 +45757,7 @@
 2507070	Cyanoloxia brissonii	Évêque de Brisson
 164628	Cyanoloxia cyanoides	Évêque bleu-noir
 138966	Cyanocompsa parellina	Évêque paré
-	Cyanocompsa rothschildii	Évêque de Rothschild
+	Cyanocompsa rothschildii	Évêque de Rothschild 
 703278	Cyanocorax affinis	Geai à poitrine noire
 703280	Cyanocorax beecheii	Geai à dos violet
 703281	Cyanocorax caeruleus	Geai azuré
@@ -56472,7 +56459,6 @@
 155276	Eryngium giganteum	Panicaut géant
 488471	Eryngium spinalba	Chardon blanc
 488471	Eryngium spinalba	Panicaut blanc des Alpes
-	455077	Eryngium maritimum
 455077	Eryngium maritimum	Chardon bleu
 455077	Eryngium maritimum	Chardon des dunes
 455077	Eryngium maritimum	Panicaut de mer
@@ -60462,7 +60448,6 @@
 	Filago germanica var. virescens	Cotonnière jaunâtre
 261772	Filago pyramidata	Cotonnière spatulée
 261772	Filago pyramidata	Cotonnière à feuilles spatulées
-	595344	Filago leontopodioides
 595344	Leontopodium leontopodioides	Cotonnière dressée
 595344	Leontopodium leontopodioides	Gnaphale dressé
 595344	Leontopodium leontopodioides	Micrope droit
@@ -60474,7 +60459,6 @@
 702255	Logfia minima	Gnaphale nain
 	Filago montana	Cotonnière naine
 	Filago montana	Gnaphale nain
-		Filago multicaulis
 	Filago multicaulis	Cotonnière dressée
 	Filago multicaulis	Gnaphale dressé
 	Filago multicaulis	Micrope droit
@@ -61962,55 +61946,44 @@
 135486	Galago matschiei	Galago du Congo
 9465	Galago senegalensis	Galago du Sénégal
 4669	Galanthus	Perce-neige
-		Galanthus alexandrii
 	Galanthus alexandrii	Clochette d'hiver
 	Galanthus alexandrii	Galanthe des neiges
 	Galanthus alexandrii	Galanthine
 	Galanthus alexandrii	Goutte de lait
 	Galanthus alexandrii	Perce-neige
-	4670	Galanthus imperati
-	4670	Galanthus montanus
-	4670	Galanthus nivalis
 4670	Galanthus nivalis	Niveole
 4670	Galanthus nivalis	Perceneige
 4670	Galanthus nivalis	Galantine d'Hiver
-		Galanthus nivalis subsp. imperati
 	Galanthus nivalis subsp. imperati	Clochette d'hiver
 	Galanthus nivalis subsp. imperati	Galanthe des neiges
 	Galanthus nivalis subsp. imperati	Galanthine
 	Galanthus nivalis subsp. imperati	Goutte de lait
 	Galanthus nivalis subsp. imperati	Perce-neige
-		Galanthus nivalis subsp. nivalis
 	Galanthus nivalis subsp. nivalis	Clochette d'hiver
 	Galanthus nivalis subsp. nivalis	Galanthe des neiges
 	Galanthus nivalis subsp. nivalis	Galanthine
 	Galanthus nivalis subsp. nivalis	Goutte de lait
 	Galanthus nivalis subsp. nivalis	Perce-neige
-		Galanthus nivalis var. montanus
 	Galanthus nivalis var. montanus	Clochette d'hiver
 	Galanthus nivalis var. montanus	Galanthe des neiges
 	Galanthus nivalis var. montanus	Galanthine
 	Galanthus nivalis var. montanus	Goutte de lait
 	Galanthus nivalis var. montanus	Perce-neige
-		Galanthus nivalis var. platypetalus
 	Galanthus nivalis var. platypetalus	Clochette d'hiver
 	Galanthus nivalis var. platypetalus	Galanthe des neiges
 	Galanthus nivalis var. platypetalus	Galanthine
 	Galanthus nivalis var. platypetalus	Goutte de lait
 	Galanthus nivalis var. platypetalus	Perce-neige
-		Galanthus nivalis var. stenopetalus
 	Galanthus nivalis var. stenopetalus	Clochette d'hiver
 	Galanthus nivalis var. stenopetalus	Galanthe des neiges
 	Galanthus nivalis var. stenopetalus	Galanthine
 	Galanthus nivalis var. stenopetalus	Goutte de lait
 	Galanthus nivalis var. stenopetalus	Perce-neige
-	51448	Galanthus plicatus
 51448	Galanthus plicatus	Clochette d'hiver
 51448	Galanthus plicatus	Galanthe des neiges
 51448	Galanthus plicatus	Galanthine
 51448	Galanthus plicatus	Goutte de lait
 51448	Galanthus plicatus	Perce-neige
-		Galanthus plicatus subsp. subplicatus
 	Galanthus plicatus subsp. subplicatus	Clochette d'hiver
 	Galanthus plicatus subsp. subplicatus	Galanthe des neiges
 	Galanthus plicatus subsp. subplicatus	Galanthine
@@ -64480,7 +64453,6 @@
 	Geranium robertianum var. purpureum	Géranium pourpre
 	Geranium romanum	Érodium acaule
 	Geranium rovirae	Géranium des prés
-	70270	Geranium sanguineum
 70270	Geranium sanguineum	Bec de grue
 70270	Geranium sanguineum	Geranium sanguin
 70270	Geranium sanguineum	Géranium sanguin
@@ -65356,7 +65328,6 @@
 630328	Helichrysum pallasii	Phagnalon des rochers
 1257061	Pterocaulon virgatum	Gnaphale des bois
 	Gnaphalium x rompelii	Gnaphale
-	702209	Gnaphalodes erecta
 	Gnaphalon calycinum	Phagnalon des rochers
 	Gnaphalon rupestre	Phagnalon des rochers
 594677	Phagnalon saxatile	Phagnalon des rochers
@@ -66115,7 +66086,6 @@
 153753	Guettarda scabra	bois noir
 153753	Guettarda scabra	bois savane
 153753	Guettarda scabra	bon savage
-		Guianacara oelemariensis
 	Guianacara oelemariensis	Acara à selle
 	Guianacara oelemariensis	Acara de l'Oelemari
 762763	Guianacara owroewefi	Acara à selle
@@ -71955,7 +71925,6 @@
 166079	Hierophis	Hiérophis
 529102	Hilsa kelee	Alose palli
 431285	Himantoglossum adriaticum	Himantoglosse adriatique
-	59314	Himantoglossum anthropophorum
 	Himantoglossum hircinum subsp. hircinum	Himantoglosse à odeur de bouc
 	Himantoglossum hircinum subsp. hircinum	Orchis bouc
 	Himantoglossum hircinum var. hircinum	Himantoglosse à odeur de bouc
@@ -83954,8 +83923,6 @@
 13114	Lorius garrulus	Lori noira
 315430	Lorius hypoinochrous	Lori à ventre violet
 274062	Lorius lory	Lori tricolore
-	59314	Loroglossum anthropophorum
-		Loroglossum brachyglottum
 	Loroglossum brachyglottum	Acéras homme pendu
 	Loroglossum brachyglottum	Homme-pendu
 	Loroglossum brachyglottum	Orchis homme pendu
@@ -89603,7 +89570,6 @@
 	Micropteron bidens	Mésoplodon de Sowerby
 	Micropteron sowerbiensis	Baleine à bec de Sowerby
 	Micropteron sowerbiensis	Mésoplodon de Sowerby
-	173329	Micropterus chrysurus
 147949	Micropterus dolomieu	Achigan à petite bouche
 147949	Micropterus dolomieu	Perche noire
 147949	Micropterus dolomieu	Black-Bass à petite bouche
@@ -89613,11 +89579,8 @@
 27706	Micropterus salmoides	Achigan
 27706	Micropterus salmoides	Black bass
 27706	Micropterus salmoides	Black-bass
-	173329	Micropteryx chrysurus
-	173329	Micropteryx cosmopolita
 	Micropus bombicinus	Bombycilaène à deux couleurs
 	Micropus bombicinus	Cotonnière discolore
-	702208	Micropus erectus
 702208	Bombycilaena discolor	Cotonnière dressée
 702208	Bombycilaena discolor	Gnaphale dressé
 702208	Bombycilaena discolor	Micrope droit
@@ -89625,7 +89588,6 @@
 702208	Bombycilaena discolor	Micropus dressé
 	Micropus erectus subsp. bombycinus	Bombycilaène à deux couleurs
 	Micropus erectus subsp. bombycinus	Cotonnière discolore
-	702219	Micropus multicaulis
 702219	Filago arvensis	Cotonnière dressée
 702219	Filago arvensis	Gnaphale dressé
 702219	Filago arvensis	Micrope droit
@@ -96572,8 +96534,6 @@
 1530325	Spiranthes aestivalis	Ophrys de Marcelle Conrad
 	Ophrys ambusta	Ophrys mouche
 	Ophrys annae	Ophrys d'Anne
-	59314	Ophrys anthropomorpha
-	59314	Ophrys anthropophora
 	Ophrys apiculata	Ophrys bourdon
 	Ophrys apiculata	Ophrys frelon
 78817	Ophrys apifera	Ophrys abeille
@@ -97201,7 +97161,6 @@
 	Orchis amoena	Orchis brûlé
 413036	Orchis anatolica	Orchis d'Anatolie
 	Orchis angustifolia f. schurii	Orchis de Traunsteiner
-	59314	Orchis anthropophora
 59314	Orchis anthropophora	Homme pendu
 	Orchis aphylla	Épipogium sans feuilles
 	Orchis aphylla	Épipogon sans feuilles
@@ -113225,7 +113184,6 @@
 83517	Agaricus silvaticus	Agaric à pied en fuseau
 83517	Agaricus silvaticus	Psalliote à pied en fuseau
 	Psalliota hortensis var. bispora	Champignon de Paris
-		Psalliota hortensis var. subfloccosa
 	Psalliota hortensis var. subfloccosa	Agaric à flocon
 	Psalliota hortensis var. subfloccosa	Psalliote à flocons
 	Psalliota hortensis var. subperonata	Agaric guêtre
@@ -113242,7 +113200,6 @@
 83517	Agaricus silvaticus	Agaric pintade
 1028339	Agaricus litoralis	Agaric épais
 1028339	Agaricus litoralis	Psalliote épais
-	98372	Psalliota subfloccosa
 	Psalliota sylvatica var. amethystina	Agaric solitaire
 	Psalliota sylvatica var. amethystina	Psalliote solitaire
 	Psalliota vaporaria	Agaric des bords de route
@@ -124061,7 +124018,6 @@
 	Satyrium acaciae frigidior	Thécla de l'Amarel
 	Satyrium acaciae nostras	Thécla de l'Acacia
 	Satyrium acaciae nostras	Thécla de l'Amarel
-	59314	Satyrium anthropophorum
 	Satyrium bifolium	Platanthère à deux feuilles
 	Satyrium bifolium	Platanthère à fleurs blanches
 	Satyrium densiflorum	Néottinée maculée
@@ -126171,8 +126127,6 @@
 	Scomber capensis	Strumbulu
 	Scomber capensis	Vizet
 	Scomber capensis	Hareng du Pacifique
-	173329	Scomber chloris
-	173329	Scomber chrysurus
 338315	Scomber colias	Maquereau espagnol atlantique
 338315	Scomber colias	Maquereau Blanc
 338315	Scomber colias	Maquereau espagnol Pacifique
@@ -128406,7 +128360,6 @@
 173337	Seriola carpenteri	Sériole chicard
 173337	Seriola carpenteri	Sériole couronnée
 173337	Seriola carpenteri	Sériole Guinéenne
-	173329	Seriola cosmopolita
 	Seriola depressa	Porcelle à soies courtes
 41447	Seriola dumerili	Seriole
 41447	Seriola dumerili	Sériole

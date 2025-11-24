@@ -4,7 +4,6 @@ input_file = "TAXONOMIC-VERNACULAR-FR-CURATED-221125.txt"
 output_file = "TAXONOMIC-VERNACULAR-FR-CURATED-221125-FILTERED-241125.txt"
 
 ncbi = NCBITaxa()
-
 seen = set()
 
 with open(input_file, "r", encoding="utf-8") as fin, \
@@ -15,29 +14,25 @@ with open(input_file, "r", encoding="utf-8") as fin, \
         if not line:
             continue
 
+        # ensure at least 3 columns
         parts = line.split("\t")
-        if len(parts) < 3:
-            continue
+        while len(parts) < 3:
+            parts.insert(0, "")  # pad missing taxid at start
 
         taxid, latin_name, vernacular = parts
 
-        # if no taxid → ignore
-        if taxid == "" or taxid.lower() == "none":
-            continue
+        # replace Latin name by NCBI official name if taxid exists
+        if taxid != "" and taxid.lower() != "none":
+            try:
+                taxid_int = int(taxid)
+                true_name = ncbi.get_taxid_translator([taxid_int]).get(taxid_int, latin_name)
+            except Exception:
+                true_name = latin_name
+        else:
+            true_name = latin_name  # keep original if no taxid
 
-        # resolve true latin name
-        try:
-            taxid_int = int(taxid)
-            true_name = ncbi.get_taxid_translator([taxid_int]).get(taxid_int)
-        except Exception:
-            continue  # invalid taxid
-
-        if true_name is None:
-            continue
-
+        # deduplicate on (taxid, true_name, vernacular)
         triplet = (taxid, true_name, vernacular)
-
-        # write only first occurrence
         if triplet not in seen:
             seen.add(triplet)
             fout.write(f"{taxid}\t{true_name}\t{vernacular}\n")

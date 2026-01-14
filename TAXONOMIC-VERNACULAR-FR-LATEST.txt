@@ -110050,7 +110050,7 @@
 129214	Polytrichum strictum	polytric roide
 129214	Polytrichum strictum	polytric vertical
 	Polytrichum swartzii	polytric variable
-30862	Pomacanthidae	demoiselles
+30862	Pomacanthidae	Poissons-anges
 272801	Pomacanthus zonipectus	Demoiselle de Cortez
 272787	Pomacanthus asfur	Poisson-ange demi-lune
 109711	Pomacanthus imperator	Ange de mer impérial

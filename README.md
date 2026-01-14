@@ -2,6 +2,20 @@
 # Goal of this project
 The aim of this repository is to propose an up-to-date correspondance between latin and vernacular french names for as many taxa as possible. This is used for the [french version of the Lifemap Explorer of the tree of Life](http://lifemap-fr.univ-lyon1.fr)
 
+
+# UPDATE NOV. 2025
+In this important update, we did the following: 
+with the code `add_taxid_taxo.py` wo transformed the file `TAXONOMIC-VERNACULAR-FR.txt` into a new file `TAXO-WITH-TAXID-20251122-0153.txt` by getting taxids from NCBI from the names thants to ete3 and when the taxid was not found, we queried gbif to see if the name was the synonym of another one and if yes this other one was used to recover the taxid. *
+
+In the process we also recovered all AMBIGUITIES: when a latin name corresponds to multiple taxids. These cases were written down in `TAXO-PROBLEMS-20251122-0153.txt`by the script. 
+
+Finally, the problems were solved manually after internet lookup to correct the names in order to produce the final file: 
+`TAXONOMIC-VERNACULAR-FR-CURATED-221125.txt`
+This file will be used for the french version of Lifemap. 
+
+
+
+
 # Dataset produced
 Using the three data sources listed below (GBIF, INPN and wikidata), and the dedicated code `extract-taxo.py` we recover vernacular names for 140 538 distinct taxa. 
 
@@ -70,6 +84,7 @@ Of course, nothing is always simple, and some ambiguities exist because some tax
 Other example : 
 - __Arenaria__ : genus of birds (Family: __Scolopacidae__) and genus of flower (Family: Caryophylaceae). The latter is called "Sablines" in french.
 
+
 # Contributions 
 If you think that some important data sources should be added, please open an issue indicating the resource you have in mind, and I will try to integrate it.
 
@@ -82,5 +97,7 @@ Please note the GBIF ans INPN are already combining data from a variety of sourc
 For questions, remarks, or if you want to help and contribute, please send me an email or open an issue. 
 
 # Citation 
-If you use this dataset, please cite the paper presenting Lifemap: 
+If you use this dataset, please cite the paper presenting Lifemap: de Vienne DM. 2016. Lifemap: Exploring the Entire Tree of Life. PLOS Biolgy.
+
+
 

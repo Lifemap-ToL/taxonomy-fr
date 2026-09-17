@@ -3,18 +3,41 @@
 The aim of this repository is to propose an up-to-date correspondance between latin and vernacular french names for as many taxa as possible. This is used for the [french version of the Lifemap Explorer of the tree of Life](http://lifemap-fr.univ-lyon1.fr)
 
 
-# UPDATE NOV. 2025
-In this important update, we did the following: 
-with the code `add_taxid_taxo.py` wo transformed the file `TAXONOMIC-VERNACULAR-FR.txt` into a new file `TAXO-WITH-TAXID-20251122-0153.txt` by getting taxids from NCBI from the names thants to ete3 and when the taxid was not found, we queried gbif to see if the name was the synonym of another one and if yes this other one was used to recover the taxid. *
+# Current reference file
 
-In the process we also recovered all AMBIGUITIES: when a latin name corresponds to multiple taxids. These cases were written down in `TAXO-PROBLEMS-20251122-0153.txt`by the script. 
+[`TAXONOMIC-VERNACULAR-FR-LATEST.txt`](TAXONOMIC-VERNACULAR-FR-LATEST.txt) is the maintained reference file used by the Lifemap backend. Make future name corrections in this file and document them in a new dated `UPDATE YYYY-MM-DD` section below, with the most recent update first. The dated curated and filtered files are historical snapshots.
 
-Finally, the problems were solved manually after internet lookup to correct the names in order to produce the final file: 
-`TAXONOMIC-VERNACULAR-FR-CURATED-221125.txt`
-This file will be used for the french version of Lifemap. 
+Each record has three tab-separated columns: NCBI taxid, scientific name, and French vernacular name. Multiple vernacular names can be associated with the same taxid. Some records have no taxid; these are retained for possible future matching.
 
+# UPDATE 2026-09-17
 
+Restored `TAXONOMIC-VERNACULAR-FR-CURATED-221125-FILTERED-241125.txt`, which was missing from the working directory, from its committed version in Git. Its contents are unchanged from the historical snapshot. Reorganized this README into dated update sections and clarified which file to edit for future corrections. No changes were made to `TAXONOMIC-VERNACULAR-FR-LATEST.txt` in this update.
 
+# UPDATE 2026-01-14
+
+Created `TAXONOMIC-VERNACULAR-FR-LATEST.txt` from the filtered snapshot as the reference file for subsequent updates and use by the Lifemap backend.
+
+Corrected the French name for **Pomacanthidae** (NCBI taxid **30862**) from **demoiselles** to **Poissons-anges**. This is the only record that differs between the restored filtered snapshot and `LATEST` at this date. Both files contain **147,027 records**.
+
+# UPDATE 2025-11-24
+
+Used `final-modif-update-latinname-remove-dup.py` to produce `TAXONOMIC-VERNACULAR-FR-CURATED-221125-FILTERED-241125.txt` from the curated file:
+
+- Replaced scientific names with the official NCBI names for their taxids where available.
+- Removed records with an empty vernacular name or a name equal to `None` (case-insensitive).
+- Removed duplicate combinations of taxid, normalized scientific name, and vernacular name.
+- Retained records without a taxid for possible future use. An initial version removed them; this was corrected on the same day.
+- Fixed handling of leading tabs so that records with an empty taxid retain the correct column structure.
+
+The resulting file contains **147,027 records**, down from **209,316** in the curated file, while retaining **41,995 distinct nonempty taxids**. Of these records, **74,497** have no taxid.
+
+# UPDATE 2025-11-22
+
+Used `add_taxid_taxo.py` to transform `TAXONOMIC-VERNACULAR-FR.txt` into `TAXO-WITH-TAXID-20251122-0153.txt`. NCBI taxids were retrieved from scientific names using ete3. When no taxid was found, GBIF was queried for synonyms that could be matched to NCBI.
+
+Ambiguous scientific names matching multiple taxids were recorded in `TAXO-PROBLEMS-20251122-0153.txt`. These cases were resolved manually after checking external sources, producing `TAXONOMIC-VERNACULAR-FR-CURATED-221125.txt`.
+
+The curated file contains **209,316 records**, including **74,511** without a taxid, and **41,995 distinct nonempty taxids**. It is the input to the subsequent filtering step described above.
 
 # Dataset produced
 Using the three data sources listed below (GBIF, INPN and wikidata), and the dedicated code `extract-taxo.py` we recover vernacular names for 140 538 distinct taxa. 
